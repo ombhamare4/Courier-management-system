@@ -8,7 +8,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class AdminPage extends JFrame {
-    // JPanel panel ;
     JLabel head;
     JButton cusdet, emde, bige, rach ;
     JPanel panelcli;
